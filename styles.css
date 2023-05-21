@@ -67,7 +67,7 @@ nav {
 }
 
 .memory img {
-  width: 50%;
+  width: 100%;
   height: 500px;
   object-fit: cover;
   border-radius: 8px;
